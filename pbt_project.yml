@@ -1,0 +1,58 @@
+name: archie.fay
+description: customer loyalty
+version: 0.75.968
+author: b3g3ay12.nnbftb8s@k83f2ts4.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: archiefay
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:55:29'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:55:29'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:55:29.076706Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '984542919'
+  createdAt: '2025-12-05T22:55:29.076706Z'
+  type: plibMaven
+projectDependencies:
+  '133':
+    projectUID: 133
+    projectName: calista.mertz
+    repositoryPath: gitUri=http://gitserver:3000/dev_SgoetbX8_team_214/dev_SgoetbX8_project_133.git&subPath=
+    version: calista.mertz/7.9.6.990
+    isDefault: false
+    author: null
+    createdAt: '2025-12-05 22:55:26'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
